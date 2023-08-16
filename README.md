@@ -1,0 +1,2 @@
+# google-account-scam
+This is for example only. It may not be used with malicioul intent in any way shape or form. It may only be used with the explicit permission of the receiving party. I have only created this to show how easy it is to fake login pages for hackers, and how they can easily gain access to user accounts with this method. If you are careful you can avoid this type of attack. Visit this link for more information. https://digitalcoffeecup.com/how-to-not-get-hacked/
